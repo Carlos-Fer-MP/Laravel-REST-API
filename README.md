@@ -10,4 +10,4 @@ Así docker iniciara los contenedores pertinentes.
 
 ### Información del Proyecto
 
- Cabe recalcar que esta es la primera vez que aplico programación hexagonal, es posible que falten alguna funcionalidad pero mi meta principal era aplicar la arquitectura hexagonal.
+ Cabe recalcar que esta es la primera vez que aplico programación hexagonal, es posible que falte alguna funcionalidad pero mi meta principal era aplicar la arquitectura hexagonal.
