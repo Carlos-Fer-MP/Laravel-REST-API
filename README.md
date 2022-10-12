@@ -10,4 +10,4 @@ Then docker will start the relevant containers.
 
 #### A little disclaimer.
 
- It is important to emphasize that this is the first time that I apply hexagonal programming, it is possible that some functionality is missing but my main goal was to apply the hexagonal architecture.
+ It is important to emphasize that this is the first time that I apply hexagonal programming, it is possible that a functionality is missing but my main goal was to apply the hexagonal architecture.
