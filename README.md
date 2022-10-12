@@ -1,13 +1,13 @@
-# Laravel-REST-API
+### Laravel-REST-API
 
-### Iniciar Docker
+#### Start Docker
 
-El proyecto en cuestión está construido sobre laravel [Sail](https://laravel.com/docs/9.x/sail#starting-and-stopping-sail) para inicar docker lo único que tenemos que hacer es.
+The project in question is built on laravel [Sail](https://laravel.com/docs/9.x/sail#starting-and-stopping-sail) to start docker all we have to do is.
 
-Desde la carpeta del proyecto ejecutar la instrucción **./vendor/bin/sail up**.
+From the project folder execute the instruction **./vendor/bin/sail up**.
 
-Así docker iniciara los contenedores pertinentes.
+Then docker will start the relevant containers.
 
-### Información del Proyecto
+#### A little "disclaimer".
 
- Cabe recalcar que esta es la primera vez que aplico programación hexagonal, es posible que falte alguna funcionalidad pero mi meta principal era aplicar la arquitectura hexagonal.
+ It is important to emphasize that this is the first time that I apply hexagonal programming, it is possible that some functionality is missing but my main goal was to apply the hexagonal architecture.
